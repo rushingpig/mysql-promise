@@ -1,4 +1,4 @@
 # Summary
 
-* pigo残
+* [pigo残](pigocan.md)
 
